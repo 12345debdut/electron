@@ -1,0 +1,17 @@
+{
+    "name": "login-form",
+    "vertion": "1.0.0",
+    "main": "main.js",
+    "devDependencies": {
+        "electron": "^3.0.0"
+    },
+    "scripts": {
+        "start": "electron ."
+    },
+    "dependencies": {
+        "crypto-js": "^3.1.9-1",
+        "localstorage": "^1.0.1",
+        "mysql": "^2.16.0",
+        "nan": "^2.11.0"
+    }
+}
